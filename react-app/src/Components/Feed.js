@@ -29,7 +29,7 @@ const Feed = () => {
         )
       }
 
-      <NewPost propFunc={getPostsData} />
+      <NewPost p_p={getPostsData} />
     </div>
   )
 
